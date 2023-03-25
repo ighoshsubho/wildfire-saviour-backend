@@ -1,0 +1,6 @@
+__pycache__
+.env
+message.txt
+mycontacts.txt
+venv
+sample_email_send.py

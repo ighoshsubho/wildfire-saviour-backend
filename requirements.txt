@@ -1,0 +1,6 @@
+opencv-python
+playsound
+emails
+geocoder
+python-dotenv
+boto3
