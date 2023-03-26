@@ -43,6 +43,8 @@ And one can validate whether the fire detection is fake or not by referring to o
 
 ## Run Locally
 
+### First get your AWS Secret key and specify in send_email.py file using .env. And don't forgert to specify sender email as well!
+
 Clone the project
 
 ```bash
