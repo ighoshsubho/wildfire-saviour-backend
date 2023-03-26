@@ -9,8 +9,8 @@ import os
 load_dotenv(find_dotenv())
 
 def send_message():
-    SENDER = "ighoshsubho@gmail.com"
-    TO = "cluelesssubho@gmail.com"
+    SENDER = "SENDER EMAIL"
+    TO = "SENDING EMAIL"
     AWS_REGION = "ap-south-1"
     SUBJECT = "Wild Fire Detected!"
     BODY_TEXT = ("Wildfire Detected!!\r\n"
