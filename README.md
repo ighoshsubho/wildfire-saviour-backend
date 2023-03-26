@@ -41,3 +41,28 @@ And one can validate whether the fire detection is fake or not by referring to o
 
 **Others:** Python, AWS, NASA API
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone [Link to project]
+```
+
+Go to the project directory
+
+```bash
+  cd wildfire-saviour-backend
+```
+
+Install dependencies
+
+```bash
+  pip install -r requirements.txt
+```
+Run it locally
+
+```bash
+  python fire_detection.py
+```
+
